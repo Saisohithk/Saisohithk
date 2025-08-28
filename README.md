@@ -17,6 +17,8 @@
 - 👀 Always excited to take on new challenges in data science
 - 🧠 Committed to delivering data-driven insights and solutions
 
+---
+
 ## 🛠️ Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -29,12 +31,13 @@
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning"/>
 </p>
 
+---
 
 ## 🤝 Let's Connect
 - 📫 Email: Saisohithkommana@gmail.com
 - 💻 GitHub: [Saisohithk](https://github.com/Saisohithk)
 - 🔗 LinkedIn: [Sai Sohith](www.linkedin.com/in/sai-sohith-410s62s11)
 
-
-
 Thanks for visiting! 🌱
+
+---
