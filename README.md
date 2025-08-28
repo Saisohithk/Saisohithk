@@ -1,8 +1,14 @@
 # Hi 👋, I'm SAI SOHITH KOMMANA
 
+<h3 align="center">Data Analyst | Data Engineer | SQL Automation | Open to Work</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile..&hearts;++;Data+Science+Enthusiast,;Machine+Learning+Developer,;Active+Learner/Researcher,;Love+to+learn+new+technologies..<3">
+  <a href="https://www.linkedin.com/in/sai-sohith-410s62s11/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="SaiSohith-linkedin"/></a>
+  <a href="mailto:Saisohithkommana@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email-SaiSohith"/></a>
+  <a href="https://github.com/Saisohithk" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github-Saisohithk"/></a>
 </p>
+
+---
 
 ## 🧭 About Me
 - 🔍 Passionate about Data Science and Machine Learning
@@ -23,14 +29,12 @@
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning"/>
 </p>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saisohithk&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
 
 ## 🤝 Let's Connect
 - 📫 Email: Saisohithkommana@gmail.com
 - 💻 GitHub: [Saisohithk](https://github.com/Saisohithk)
-- 🔗 LinkedIn:
+- 🔗 LinkedIn: [Sai Sohith](www.linkedin.com/in/sai-sohith-410s62s11)
+
+
 
 Thanks for visiting! 🌱
