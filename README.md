@@ -2,7 +2,7 @@
 
 <h3 align="center"> Open to Work</h3>
 <p align="center">
-  🎓 MS in Information Systems Technology | 📍 Laurl, MD <br>
+  🎓 MS in Information Systems Technology | 📍 Laurel, MD <br>
   💻 Passionate about Data Analytics, Business Intelligence, Data Engineer, and AI 📊<br>
   🔍 Turning Data into Actionable Insights
 </p>
