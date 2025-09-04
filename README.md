@@ -1,6 +1,6 @@
 # Hi 👋, I'm SAI SOHITH KOMMANA
 
-<h3 align="center">Data Analyst | Data Engineer | SQL Automation | Open to Work</h3>
+<h3 align="center"> Open to Work</h3>
 <p align="center">
   🎓 MS in Information Systems Technology | 📍 Laurl, MD <br>
   💻 Passionate about Data Analytics, Business Intelligence, Data Engineer, and AI 📊<br>
