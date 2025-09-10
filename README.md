@@ -21,16 +21,6 @@
 
 ---
 
-## 💼 Experience
-
-**Freelance Data Analyst – NitlyTech**  
-📆 *Jun 2022 – Jul 2023*  
-- Built dashboards for key KPIs using Power BI  
-- Conducted trend & variance analysis using SQL and Python  
-- Created visualizations to support strategic decisions
-
----
-
 ## 🛠️ Skills
 
 ### 💻 Languages & Tools
