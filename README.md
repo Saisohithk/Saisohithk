@@ -41,6 +41,8 @@
 [![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=matplotlib&logoColor=white)](#)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-0077B6?style=for-the-badge&logo=langchain&logoColor=white)](#)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#)
 
 ### ☁️ Cloud & AI
 
