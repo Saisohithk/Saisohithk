@@ -11,13 +11,12 @@
 
 ## 🧭 About Me
 
-🎯 I'm a highly analytical **Data Analyst** with experience in:
+I'm an AI/ML Engineer, Data Analyst & Data Engineer with 1 year of experience specializing in data analysis, predictive modeling, Snowflake Data Warehousing, and Generative AI solutions.
 
-- SQL & MySQL Databases 🗃️  
-- Power BI Dashboards 📊  
-- Python Data Analysis (Pandas, NumPy, Matplotlib) 🐍  
-- Machine Learning & AI 🤖  
-- Data Visualization and Reporting 📈
+- Skilled in building and deploying ML pipelines, LLM-powered NLP applications, and Retrieval-Augmented Generation (RAG) systems using AWS, Snowflake, and LangChain.
+- Proficient in SQL, Python, and Power BI for advanced analytics, visualization, and business intelligence.
+- Experienced in Agile environments, delivering scalable, secure, and compliance-driven solutions that drive decision-making, operational efficiency, and customer engagement.
+- Passionate about transforming data into actionable strategies and innovative solutions.
 
 ---
 
@@ -62,7 +61,6 @@ B.Tech in Electronics & Communication Engineering
 *Jun 2019 – May 2023* | CGPA: **3.46**  
 
 ---
-
 
 ## 🤝 Let's Connect
 - 📫 Email: Saisohithkommana@gmail.com
