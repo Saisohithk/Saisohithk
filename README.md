@@ -3,8 +3,8 @@
 <h3 align="center"> Open to Work</h3>
 <p align="center">
   🎓 MS in Information Systems Technology | 📍 Laurel, MD <br>
-  💻 Passionate about Data Analytics, Business Intelligence, Data Engineer, and AI 📊<br>
-  🔍 Turning Data into Actionable Insights
+  💻 Passionate about Data Analytics, Data Engineer, and AI/ML Engineer 📊<br>
+  🔍 Turning Data into Actionable Insights and Models
 </p>
 
 ---
