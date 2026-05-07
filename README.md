@@ -16,10 +16,7 @@
   </a>
   <a href="https://nolancacheux.com">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&amp;logo=google--chrome&amp;logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://nolanfree.fr">
-    <img src="https://img.shields.io/badge/Freestyle-FF7139?style=flat-square&amp;logo=Firefox--Browser&amp;logoColor=white" alt="Freestyle" />
-  </a>
+  </a>  
 </div>
 
 ---
