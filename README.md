@@ -35,11 +35,6 @@
 |:--------|:-----------|
 | **[Rag-Equity-Research-Agent](https://github.com/Saisohithk/Rag-Equity-Research-Agent)** | Multi-source equity analysis • LangGraph orchestration • Hybrid RAG • Real-time insights |
 | **[SEC-Filing-Intelligence](https://github.com/Saisohithk/SEC-Filing-Intelligence)** | Production RAG platform • 10-K filing analysis • Grounded QA • Document intelligence |
-| **[AI-Video-Comment-Analyzer](https://github.com/Saisohithk/AI-Video-Comment-Analyzer)** | BERT sentiment detection • BERTopic clustering • Ollama summaries • YouTube API integration |
-| **[AI-Chess-Assistant](https://github.com/Saisohithk/AI-Chess-Assistant)** | Chrome extension • Stockfish integration • Real-time move analysis • Chess.com support |
-| **[AI-Product-Photo-Detector](https://github.com/Saisohithk/AI-Product-Photo-Detector)** | MLOps pipeline • EfficientNet-B0 • FastAPI • MLflow tracking • Docker containerization |
-| **[AI-Visualizer-Neural-Network](https://github.com/Saisohithk/AI-Visualizer-Neural-Network-Architecture)** | Interactive 3D visualization • Deep learning education • Architecture exploration |
-| **[Distributed-Data-Platform](https://github.com/Saisohithk/distributed-data-platform)** | Enterprise architecture • Multi-database ELT • Kubernetes orchestration • Real-time processing |
 
 </div>
 
