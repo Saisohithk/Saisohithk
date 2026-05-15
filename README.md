@@ -1,78 +1,102 @@
 <!-- Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=200&amp;section=header&amp;text=Sai%20Sohith&amp;fontSize=80&amp;fontAlignY=35&amp;desc=Data%20Scientist%20%7C%20AI/ML%20Engineering%20&amp;descAlignY=55&amp;fontColor=ffffff&amp;animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Sai%20Sohith%20Kommana&fontSize=80&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-**AI & ML Engineer**. I build production-grade ML systems: RAG pipelines, LLM agents, forecasting models, and MLOps infrastructure on GCP/AWS/Azure.
+<h1 align="center">🤖 AI & ML Engineer | Production ML Systems Architect</h1>
 
+<p align="center">
+  Building production-grade ML systems: <strong>RAG pipelines</strong> • <strong>LLM agents</strong> • <strong>Forecasting models</strong> • <strong>MLOps infrastructure</strong> on GCP/AWS/Azure
+</p>
 
 <!-- Social Badges -->
 <div align="center">
   <a href="https://www.linkedin.com/in/Saisohithk">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:Saisohithkommana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://nolancacheux.com">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&amp;logo=google--chrome&amp;logoColor=white" alt="Portfolio" />
+  <a href="https://saisohith-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google--chrome&logoColor=white" alt="Portfolio" />
   </a>  
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-| Project | Description |
-|:--------|:-----------|
-| [**Rag-Equity-Research-Agent**](https://github.com/nolancacheux/Rag-Equity-Research-Agent) | Autonomous equity research agent with multi-source analysis, LangGraph orchestration, hybrid RAG, and Telegram bot. Deployed on Azure. |
-| [**SEC-Filing-Intelligence**](https://github.com/nolancacheux/Rag-Equity-Research-Agent) | Production-grade Retrieval-Augmented Generation (RAG) platform for querying SEC 10-K filings with grounded, citation-backed answers. Built hybrid retrieval pipelines using BM25, Pinecone vector search, Reciprocal Rank Fusion (RRF), and BGE reranking to reduce hallucinations and improve answer relevancy. Engineered scalable FastAPI services with Redis caching, async ingestion workflows, RAGAS evaluation pipelines, and multi-LLM provider routing across Groq, Gemini, and Ollama. |
-| [**AI-Video-Comment-Analyzer**](https://github.com/nolancacheux/AI-Video-Comment-Analyzer) | YouTube comment analysis with BERT sentiment detection, BERTopic clustering, and Ollama summaries. Next.js + FastAPI. |
-| [**AI-Chess-Assistant**](https://github.com/nolancacheux/AI-Chess-Assistant) | Chrome extension integrating Stockfish with chess.com for real-time move analysis, evaluation, and educational insights. |
-| [**AI-Product-Photo-Detector**](https://github.com/nolancacheux/AI-Product-Photo-Detector) | MLOps pipeline for detecting AI-generated product images. EfficientNet-B0, FastAPI, MLflow, Docker Compose. |
-| [**AI-Visualizer-Neural-Network-Architecture**](https://github.com/nolancacheux/AI-Visualizer-Neural-Network-Architecture) | Interactive 3D educational platform for understanding Deep Learning architectures. Next.js + Three.js. |
-| [**distributed-data-platform**](https://github.com/nolancacheux/distributed-data-platform) | Enterprise-grade distributed data platform with multi-database architecture, ELT pipelines, and Kubernetes orchestration. |
-
-</div>
-
-<div align="center">
-  <a href="https://nolancacheux.com">
-    <img src="https://img.shields.io/badge/View%20Full%20Portfolio-4285F4?style=flat-square&amp;logo=google--chrome&amp;logoColor=white" />
+  <a href="https://github.com/Saisohithk?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
-<br/>
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Available%20for%20Freelance-AI%2FML%20Engineering%20·%20RAG%20·%20LLM%20·%20Agents-FF6B6B?style=flat-square" />
+
+| Project | Highlights |
+|:--------|:-----------|
+| **[Rag-Equity-Research-Agent](https://github.com/Saisohithk/Rag-Equity-Research-Agent)** | Multi-source equity analysis • LangGraph orchestration • Hybrid RAG • Real-time insights |
+| **[SEC-Filing-Intelligence](https://github.com/Saisohithk/SEC-Filing-Intelligence)** | Production RAG platform • 10-K filing analysis • Grounded QA • Document intelligence |
+| **[AI-Video-Comment-Analyzer](https://github.com/Saisohithk/AI-Video-Comment-Analyzer)** | BERT sentiment detection • BERTopic clustering • Ollama summaries • YouTube API integration |
+| **[AI-Chess-Assistant](https://github.com/Saisohithk/AI-Chess-Assistant)** | Chrome extension • Stockfish integration • Real-time move analysis • Chess.com support |
+| **[AI-Product-Photo-Detector](https://github.com/Saisohithk/AI-Product-Photo-Detector)** | MLOps pipeline • EfficientNet-B0 • FastAPI • MLflow tracking • Docker containerization |
+| **[AI-Visualizer-Neural-Network](https://github.com/Saisohithk/AI-Visualizer-Neural-Network-Architecture)** | Interactive 3D visualization • Deep learning education • Architecture exploration |
+| **[Distributed-Data-Platform](https://github.com/Saisohithk/distributed-data-platform)** | Enterprise architecture • Multi-database ELT • Kubernetes orchestration • Real-time processing |
+
+</div>
+
+<div align="center">
+  <a href="https://saisohith-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Explore%20Full%20Portfolio-4285F4?style=flat-square&logo=google--chrome&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-## Technical Skills
+## 💻 Technical Stack
 
 <div align="center">
 
-| **Category** | **Technologies** |
+| Category | Technologies |
 |:---:|---|
-| **Data Science & Analytics** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
-| **AI/ML & MLOps** | ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Prophet](https://img.shields.io/badge/Prophet-4285F4?style=flat&logo=meta&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat&logo=microsoft&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-4CAF50?style=flat&logo=datacamp&logoColor=white) ![Time Series](https://img.shields.io/badge/Time_Series-9C27B0?style=flat&logo=chart-dot-js&logoColor=white) |
-| **Cloud & Big Data** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white) ![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat&logo=amazon&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| **Programming Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) |
+| **ML/AI & NLP** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) ![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=flat&logo=huggingface&logoColor=black) |
+| **MLOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) |
+| **Data & Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white) ![Vector%20DB](https://img.shields.io/badge/Vector%20DB-5B9BD5?style=flat&logo=database&logoColor=white) |
+| **Web & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![REST%20API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=swagger&logoColor=white) |
 
 </div>
 
+---
+
+## 📈 Expertise
+
+- **AI/ML Engineering** - Building scalable ML systems with production-grade architecture
+- **RAG & LLM Systems** - Retrieval-Augmented Generation pipelines with LangChain/LangGraph
+- **MLOps & Infrastructure** - Model deployment, monitoring, and orchestration
+- **Data Engineering** - ETL/ELT pipelines, data warehousing, real-time processing
+- **Cloud Architecture** - Multi-cloud solutions on AWS, GCP, and Azure
+- **API Development** - RESTful APIs, microservices, and real-time applications
+
+---
+
+## 🎯 Open to Opportunities
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Available%20for%20Collaboration-AI%2FML%20Engineering%20·%20RAG%20·%20LLM%20·%20MLOps-FF6B6B?style=flat-square" />
+</div>
+
+<div align="center">
+  <p>Interested in AI/ML projects? Let's connect! 🚀</p>
+  <a href="mailto:Saisohithkommana@gmail.com">
+    <img src="https://img.shields.io/badge/Get%20In%20Touch-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 <!-- Snake Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nolancacheux/nolancacheux/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nolancacheux/nolancacheux/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nolancacheux/nolancacheux/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saisohithk/Saisohithk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saisohithk/Saisohithk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Saisohithk/Saisohithk/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -80,13 +104,18 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=100&amp;section=footer&amp;animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer&animation=twinkling" />
   
   <p>
     <i>"Turning data into decisions, one model at a time"</i>
   </p>
   
   <p>
-    Made with passion by Sai Sohith Kommana | © 2026
+    Made with ❤️ by <strong>Sai Sohith Kommana</strong> | © 2026
+  </p>
+
+  <p>
+    <a href="https://saisohith-portfolio.vercel.app">📍 Visit my full portfolio</a> • 
+    <a href="https://www.linkedin.com/in/Saisohithk">💼 Connect on LinkedIn</a>
   </p>
 </div>
