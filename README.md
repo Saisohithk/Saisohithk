@@ -3,7 +3,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Sai%20Sohith%20Kommana&fontSize=80&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<h1 align="center">🤖 AI & ML Engineer | Production ML Systems Architect</h1>
+<h1 align="center">🤖 AI & ML Engineer | Data Scientist</h1>
 
 <p align="center">
   Building production-grade ML systems: <strong>RAG pipelines</strong> • <strong>LLM agents</strong> • <strong>Forecasting models</strong> • <strong>MLOps infrastructure</strong> on GCP/AWS/Azure
