@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Sai%20Sohith%20Kommana&fontSize=80&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Sai%20Sohith%20Kommana&fontSize=80&fontAlignY=35&fontColor=ffffff">
 </div>
 
 <h1 align="center">🤖 AI & ML Engineer | Data Scientist</h1>
@@ -33,8 +33,10 @@
 
 | Project | Highlights |
 |:--------|:-----------|
-| **[Rag-Equity-Research-Agent](https://github.com/Saisohithk/Rag-Equity-Research-Agent)** | Multi-source equity analysis • LangGraph orchestration • Hybrid RAG • Real-time insights |
-| **[SEC-Filing-Intelligence](https://github.com/Saisohithk/SEC-Filing-Intelligence)** | Production RAG platform • 10-K filing analysis • Grounded QA • Document intelligence |
+| **AI Support Ticket Classifier** | Multi-agent LangGraph system • Automated analysis & routing • PII detection • Prompt injection defense • FastAPI • Live on Render |
+| **AI RAG SEC Filing Intelligence** | Production-grade RAG for 10-K analysis • Hybrid BM25 + vector search • Pinecone/ChromaDB • 91% faithfulness • p99 latency: 1.4s |
+| **Predictive Modeling of Student Performance** | ML forecasting with Scikit-learn & Pandas • Pass/fail/grade prediction • Multiple model comparison • Data visualization with Plotly |
+| **Universal Code Translator & Enhancer** | AI-powered cross-language translation • Google Gemini 2.0 Flash • LangChain orchestration • Supports Python, C++, JavaScript, Go, Rust • Live on Render |
 
 </div>
 
@@ -52,11 +54,11 @@
 
 | Category | Technologies |
 |:---:|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) |
-| **ML/AI & NLP** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) ![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=flat&logo=huggingface&logoColor=black) |
-| **MLOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) |
-| **Data & Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white) ![Vector%20DB](https://img.shields.io/badge/Vector%20DB-5B9BD5?style=flat&logo=database&logoColor=white) |
-| **Web & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![REST%20API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=swagger&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **ML/AI & NLP** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
+| **MLOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Data & Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-004687?style=flat&logo=chroma&logoColor=white) |
+| **Web & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
 
 </div>
 
